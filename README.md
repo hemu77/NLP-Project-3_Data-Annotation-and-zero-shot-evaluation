@@ -6,7 +6,7 @@
 This project detects hate speech in tweets using the **Twitter-roBERTa-base-sentiment** model. Tweets were collected from **X (formerly Twitter)** using various hashtags like `#USElection2024`, `#cancerfree`, `#positivity`, `#funny`, `#racist`, and others. The data was annotated to classify tweets as **Hate/Offensive (1)** or **Neutral (0)**.
 
 ## Data Source
-- Data collected from **X (formerly Twitter)** using hashtags:
+- Data collected from **X (formerly Twitter)** using hashtags and it's search:
   - `#USElection2024`, `#cancerfree`, `#positivity`, `#peace`, `#cr7`, `#funny`, `#appreciation`, `#racist`
 - Annotated by:
   - **Annotator-1**: Me
