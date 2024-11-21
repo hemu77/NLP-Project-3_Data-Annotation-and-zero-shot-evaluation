@@ -14,8 +14,7 @@ This project detects hate speech in tweets using the **Twitter-roberta-base-sent
 - **Gold labels**: Based on the best label from both annotators.
 
 ## Model
-- **Model**: [Twitter-roBERTa-base-sentiment](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)
-- **Pre-trained** for sentiment analysis, used here for detecting hate speech.
+- **Model**: [Twitter-roberta-base-sentiment](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)
 
 ## Instructions
 
