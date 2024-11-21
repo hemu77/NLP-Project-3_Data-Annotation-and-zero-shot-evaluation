@@ -10,7 +10,7 @@ This project detects hate speech in tweets using the **Twitter-roBERTa-base-sent
   - `#USElection2024`, `#cancerfree`, `#positivity`, `#peace`, `#cr7`, `#funny`, `#appreciation`, `#racist`
 - Annotated by:
   - **Annotator-1**: Me
-  - **Annotator-2**: Sriram Theerdh Manikyala (roommate)
+  - **Annotator-2**: Sriram Theerdh Manikyala 
 - **Gold labels**: Based on the best label from both annotators.
 
 ## Model
