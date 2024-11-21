@@ -19,19 +19,12 @@ This project detects hate speech in tweets using the **Twitter-roBERTa-base-sent
 
 ## Instructions
 
-1. **Run the Data Cleaning and Analysis Notebook**:
-   - **File**: `1.Data_cleaning_and_basic_analysis.ipynb`
-   - This notebook performs data cleaning (removes URLs, mentions, special characters) and analyzes the dataset (Cohen's Kappa score for inter-annotator agreement).
-
-2. **Run the Model Training and Evaluation Notebook**:
-   - **File**: `2.training_and_evaluation.ipynb`
-   - This notebook evaluates the performance of the model on both cleaned and uncleaned datasets using **Accuracy** and **F1 Score**.
+1. **Run the - **File**: `1.Data_cleaning_and_basic_analysis.ipynb`:
+   
+2. **Run the  - **File**: `2.training_and_evaluation.ipynb`:
+  
 
 3. **Refer to the Documentation**:
-   - Additional details on methodology, data collection, and model evaluation are provided in the repository’s documentation.
+   - Additional details on my entire project is mentioned detailedly in my documentation.
 
-## Conclusion
-This project demonstrates the use of **Twitter-roBERTa-base-sentiment** for hate speech detection and shows how text cleaning improves model performance.
 
-## License
-This project is licensed under the MIT License.
